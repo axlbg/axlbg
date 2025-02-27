@@ -8,16 +8,15 @@
 
 <table><tr><td valign="top" width="25%">
 <div align="center">  
-<img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="50" />  
 </div>
 </td><td valign="top" width="50%">
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=spring,java" alt="Java" height="50" />  
 </div>
 </td><td valign="top" width="25%">
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" />  
 </div></td></tr></table>
 
 
